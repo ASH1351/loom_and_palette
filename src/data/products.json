@@ -1,0 +1,331 @@
+[
+  {
+    "id": "lp-001",
+    "name": "Gulabi Chanderi Zari Anarkali Set",
+    "slug": "gulabi-chanderi-zari-anarkali-set",
+    "category": "Ethnic Wear",
+    "subCategory": "Kurtis",
+    "price": 4299,
+    "originalPrice": 5999,
+    "discount": "28% OFF",
+    "rating": 4.9,
+    "reviewCount": 128,
+    "badge": "Bestseller",
+    "isNew": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "availableSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "colors": [
+      { "name": "Rose Blush", "hex": "#D8B4A6" },
+      { "name": "Champagne Gold", "hex": "#C9A96E" },
+      { "name": "Ivory Pearl", "hex": "#FAF7F2" }
+    ],
+    "selectedColor": "Rose Blush",
+    "fabric": "Handwoven Pure Chanderi Silk",
+    "occasion": "Occasion Wear",
+    "description": "An exquisite silhouette woven on authentic Maheshwar handlooms, adorned with subtle real zari detailing along the neckline and cuffs. Paired with flared palazzo pants and a sheer organza dupatta with scalloped borders. Designed to drape with regal grace across sizes XS through 4XL.",
+    "features": [
+      "Crafted with 100% pure Chanderi silk with cotton lining",
+      "Signature hand-embroidered Marodi zari work",
+      "Comfort-fit elasticated waistband for palazzos",
+      "Sheer organza dupatta with scalloped tilla borders",
+      "Hidden side pockets for ease and functional elegance"
+    ],
+    "careInstructions": "Dry clean only. Store wrapped in muslin cloth away from direct sunlight.",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Model (5'8\", Bust 38\") is wearing size XL",
+    "weight": "0.75 kg"
+  },
+  {
+    "id": "lp-002",
+    "name": "Kashmiri Aari Embroidered Co-ord Set",
+    "slug": "kashmiri-aari-embroidered-coord-set",
+    "category": "Co-ord Sets",
+    "subCategory": "Occasion Wear",
+    "price": 3899,
+    "originalPrice": 4999,
+    "discount": "22% OFF",
+    "rating": 4.8,
+    "reviewCount": 94,
+    "badge": "Trending",
+    "isNew": true,
+    "isBestSeller": true,
+    "inStock": true,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "availableSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "colors": [
+      { "name": "Onyx Black", "hex": "#0B0B0B" },
+      { "name": "Sand Dune", "hex": "#D4C2B0" },
+      { "name": "Forest Sage", "hex": "#7A8471" }
+    ],
+    "selectedColor": "Onyx Black",
+    "fabric": "Luxe Modal Silk Satin",
+    "occasion": "Western Wear",
+    "description": "A striking modern interpretation of traditional Kashmiri Aari floral needlework. High-waisted fluid trousers paired with a relaxed tailored tunic jacket with tonal horn buttons and gold piping accents. Engineered for effortless proportion and movement from XS to 4XL.",
+    "features": [
+      "Lustrous modal satin with natural fluid drape",
+      "Intricate Kashmiri aari threadwork across collar & sleeves",
+      "Comfort-tailored silhouette designed for curvaceous silhouettes",
+      "Dual deep side pockets in trousers"
+    ],
+    "careInstructions": "Gentle hand wash inside out in cold water or mild eco dry clean.",
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Model (5'6\", Bust 46\") is wearing size 3XL",
+    "weight": "0.65 kg"
+  },
+  {
+    "id": "lp-003",
+    "name": "Nawabi Handloom Banarasi Organza Saree",
+    "slug": "nawabi-handloom-banarasi-organza-saree",
+    "category": "Sarees",
+    "subCategory": "Occasion Wear",
+    "price": 6499,
+    "originalPrice": 8999,
+    "discount": "27% OFF",
+    "rating": 5.0,
+    "reviewCount": 76,
+    "badge": "Artisanal Masterpiece",
+    "isNew": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sizes": ["Free Size (Includes XS-4XL Unstitched / Custom Blouse)"],
+    "availableSizes": ["Free Size (Includes XS-4XL Unstitched / Custom Blouse)"],
+    "colors": [
+      { "name": "Champagne Gold", "hex": "#C9A96E" },
+      { "name": "Blush Coral", "hex": "#E09F92" },
+      { "name": "Midnight Indigo", "hex": "#1B2A4A" }
+    ],
+    "selectedColor": "Champagne Gold",
+    "fabric": "Pure Banarasi Katan Organza Silk",
+    "occasion": "Occasion Wear",
+    "description": "Woven over 32 painstaking hours by master weavers in Varanasi. Features hand-cut floral Kadwa butas in antique gold champagne zari. Comes with an unstitched brocade blouse piece with ample margin to tailor up to 4XL.",
+    "features": [
+      "Lightweight, airy structure that creates majestic pleats",
+      "Certified Handloom mark genuine Banarasi craft",
+      "Rich zari pallu with tassel finishing",
+      "Includes 1-meter heavy zari woven blouse fabric"
+    ],
+    "careInstructions": "Dry clean only. Roll on wooden baton or fold along soft butter paper.",
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Draped on model (5'9\", Bust 40\")",
+    "weight": "0.55 kg"
+  },
+  {
+    "id": "lp-004",
+    "name": "Roohani Tiered Mulberry Silk Midi Dress",
+    "slug": "roohani-tiered-mulberry-silk-midi-dress",
+    "category": "Dresses",
+    "subCategory": "Western Wear",
+    "price": 3499,
+    "originalPrice": 4499,
+    "discount": "22% OFF",
+    "rating": 4.9,
+    "reviewCount": 112,
+    "badge": "Signature Cut",
+    "isNew": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "availableSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "colors": [
+      { "name": "Dusty Rose", "hex": "#D8B4A6" },
+      { "name": "Warm Ivory", "hex": "#FAF7F2" },
+      { "name": "Emerald Moss", "hex": "#405445" }
+    ],
+    "selectedColor": "Dusty Rose",
+    "fabric": "Organic Mulberry Silk Blend",
+    "occasion": "Western Wear",
+    "description": "A poetic dress designed with romantic ruffled flutter sleeves, a soft smocked back bodice for customized comfort, and a sweeping tiered hemline. Fitted at the natural waist without constriction, gracefully celebrating every curve from XS to 4XL.",
+    "features": [
+      "Smocked elastic back bodice that adapts to your bust line",
+      "Breathable cotton mulmul lining",
+      "Concealed side zipper with safety hook",
+      "Deep side seam pockets designed for smart devices"
+    ],
+    "careInstructions": "Cold hand wash or dry clean. Iron on low silk setting.",
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Model (5'7\", Bust 44\") is wearing size 2XL",
+    "weight": "0.48 kg"
+  },
+  {
+    "id": "lp-005",
+    "name": "Zohra Block Printed Peplum Kurti",
+    "slug": "zohra-block-printed-peplum-kurti",
+    "category": "Kurtis",
+    "subCategory": "Ethnic Wear",
+    "price": 2299,
+    "originalPrice": 2999,
+    "discount": "23% OFF",
+    "rating": 4.7,
+    "reviewCount": 83,
+    "badge": "Everyday Luxury",
+    "isNew": false,
+    "isBestSeller": false,
+    "inStock": true,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "availableSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "colors": [
+      { "name": "Ink Black", "hex": "#0B0B0B" },
+      { "name": "Champagne Gold", "hex": "#C9A96E" },
+      { "name": "Crimson Wine", "hex": "#6C1D2F" }
+    ],
+    "selectedColor": "Ink Black",
+    "fabric": "Heritage Bagru Hand-Block Cotton",
+    "occasion": "Ethnic Wear",
+    "description": "Authentic botanical woodblock printing using natural vegetal dyes. The peplum silhouette with a gently defined empire waist creates a flattering balance for all body types, making everyday styling effortless and sublime.",
+    "features": [
+      "Natural AZO-free botanical hand-block dyes",
+      "Handcrafted wooden and brass buttons",
+      "Flattering gathered empire waistline",
+      "Three-quarter bell sleeves with zari edge stitching"
+    ],
+    "careInstructions": "Hand wash separately in cold water with mild detergent.",
+    "images": [
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Model (5'5\", Bust 36\") is wearing size M",
+    "weight": "0.38 kg"
+  },
+  {
+    "id": "lp-006",
+    "name": "Sitara Hand-Tucked Chiffon Wrap Top",
+    "slug": "sitara-hand-tucked-chiffon-wrap-top",
+    "category": "Tops",
+    "subCategory": "Western Wear",
+    "price": 1999,
+    "originalPrice": 2599,
+    "discount": "23% OFF",
+    "rating": 4.8,
+    "reviewCount": 65,
+    "badge": "Versatile Essential",
+    "isNew": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "availableSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "colors": [
+      { "name": "Warm Ivory", "hex": "#FAF7F2" },
+      { "name": "Rose Blush", "hex": "#D8B4A6" },
+      { "name": "Midnight Ink", "hex": "#0B0B0B" }
+    ],
+    "selectedColor": "Warm Ivory",
+    "fabric": "Micro-Pleated Silk Chiffon",
+    "occasion": "Western Wear",
+    "description": "An adjustable crossover wrap top featuring delicate hand-tucked micro-pleats along the shoulders and a self-fabric sash tie. Pairs seamlessly with tailored trousers or ethnic dhoti skirts.",
+    "features": [
+      "Customizable wrap closure accommodates varying bust cups seamlessly",
+      "Double-lined body with sheer flowy bishop sleeves",
+      "Mother-of-pearl cuff button fastenings",
+      "Crease-resistant luxury travel fabric"
+    ],
+    "careInstructions": "Dry clean or hand wash cold. Dry flat in shade.",
+    "images": [
+      "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Model (5'8\", Bust 42\") is wearing size XL",
+    "weight": "0.30 kg"
+  },
+  {
+    "id": "lp-007",
+    "name": "Meherban Velvet Gota Patti Festive Kurti Set",
+    "slug": "meherban-velvet-gota-patti-festive-kurti-set",
+    "category": "Ethnic Wear",
+    "subCategory": "Occasion Wear",
+    "price": 5499,
+    "originalPrice": 7299,
+    "discount": "25% OFF",
+    "rating": 4.9,
+    "reviewCount": 142,
+    "badge": "Festive Highlight",
+    "isNew": false,
+    "isBestSeller": true,
+    "inStock": true,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "availableSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "colors": [
+      { "name": "Royal Emerald", "hex": "#1F4E3B" },
+      { "name": "Deep Plum", "hex": "#4A154B" },
+      { "name": "Onyx Black", "hex": "#0B0B0B" }
+    ],
+    "selectedColor": "Royal Emerald",
+    "fabric": "Plush Micro Silk Velvet",
+    "occasion": "Occasion Wear",
+    "description": "Rich velvet textured kurti trimmed with hand-cut Rajasthani Gota Patti and antique sequin work. Complemented with silk straight pants and a brocade woven dupatta.",
+    "features": [
+      "Heavy royal micro-velvet with feather-soft skin touch",
+      "Authentic Jaipur gota patti hand embroidery",
+      "Relaxed cut with tailored side slits for comfortable seating",
+      "All-inclusive sizing engineered with proportional grading"
+    ],
+    "careInstructions": "Strictly dry clean only. Steam iron inside out.",
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Model (5'7\", Bust 50\") is wearing size 4XL",
+    "weight": "0.95 kg"
+  },
+  {
+    "id": "lp-008",
+    "name": "Aura Crinkle Cotton Resort Co-ord Set",
+    "slug": "aura-crinkle-cotton-resort-coord-set",
+    "category": "Co-ord Sets",
+    "subCategory": "Western Wear",
+    "price": 2799,
+    "originalPrice": 3499,
+    "discount": "20% OFF",
+    "rating": 4.8,
+    "reviewCount": 89,
+    "badge": "Summer Escape",
+    "isNew": true,
+    "isBestSeller": false,
+    "inStock": true,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "availableSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+    "colors": [
+      { "name": "Sand Dune", "hex": "#D4C2B0" },
+      { "name": "Champagne Gold", "hex": "#C9A96E" },
+      { "name": "Dusty Rose", "hex": "#D8B4A6" }
+    ],
+    "selectedColor": "Sand Dune",
+    "fabric": "100% Breathable Crinkle Linen Cotton",
+    "occasion": "Western Wear",
+    "description": "Effortless resort glamour. An oversized Cuban collar shirt with shell buttons paired with wide-leg cropped trousers with an internal drawstring waist.",
+    "features": [
+      "Natural textured crinkle weave requires no ironing",
+      "Deep functional front and back pockets",
+      "Breathable, sweat-wicking lightweight summer cotton",
+      "Versatile separate styling options"
+    ],
+    "careInstructions": "Machine wash cold gentle cycle. Hang dry in shade.",
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=85"
+    ],
+    "modelSize": "Model (5'9\", Bust 34\") is wearing size S",
+    "weight": "0.50 kg"
+  }
+]
